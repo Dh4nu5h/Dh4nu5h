@@ -36,9 +36,9 @@ Databases & Cloud
 ---
 
  📂 Featured Projects
-🔹 **[Project 1: Human Action Recognition – A web application for identifying and monitoring Human Actions.
-🔹 **[Project 2: Automated Teaser Maker – A web application for identifying key scenes from the long video and make it a crisp short teaser using transformers. 
-🔹 **[Project 3: NLP Driven Database Query Assistant - A web application that converts human language into a MongoDB query and retrieves results in real-time. 
+🔹 Project 1: Human Action Recognition – A web application for identifying and monitoring Human Actions.
+🔹 Project 2: Automated Teaser Maker – A web application for identifying key scenes from the long video and make it a crisp short teaser using transformers. 
+🔹 Project 3: NLP Driven Database Query Assistant - A web application that converts human language into a MongoDB query and retrieves results in real-time. 
 
 ---
 
@@ -60,4 +60,5 @@ Databases & Cloud
 ---
 
 <h3 align="center">✨ "Code is logic; data is its story." ✨</h3>
+
 
