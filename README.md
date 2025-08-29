@@ -1,5 +1,4 @@
 <!-- Portfolio Banner -->
-![Banner](https://raw.githubusercontent.com/Dhanush/Dhanush/main/assets/banner.png)
 
 <h1 align="center">Hi, I'm Dhanush 👋</h1>
 <h3 align="center">Web Developer | Data Analyst | Data Engineer | Data Science Enthusiast</h3>
@@ -63,6 +62,7 @@ Databases & Cloud
 ---
 
 <h3 align="center">✨ "Code is logic; data is its story." ✨</h3>
+
 
 
 
