@@ -62,7 +62,8 @@ Databases & Cloud
 
 ---
 
-<h3 align="center">✨ "Code is logic; data is its story." ✨</h3>
+<h3 align="center">✨ Code is logic; data is its story. ✨</h3>
+
 
 
 
