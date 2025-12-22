@@ -11,7 +11,7 @@
  🌱 Currently diving deeper into full-stack web development and data engineering.  
  🛠 Skilled in Python, SQL, Pandas, Power BI, Tableau, ETL Tools.  
  💡 I love solving problems with clean code and data insights.  
- 🌍 Open to collaborations in **web development** & **data projects  
+ 🌍 Open to collaborations in web development & data projects  
 
 
  🛠️ Tech Stack
@@ -63,6 +63,7 @@ Databases & Cloud
 ---
 
 <h3 align="center">✨ Code is logic; data is its story. ✨</h3>
+
 
 
 
